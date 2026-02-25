@@ -1,0 +1,27 @@
+Date,Trans_Details,Trans_Dr,Trans_Cr
+2025-07-01 00:00:00,Transfer from CBA,,$500.00
+2025-07-04 00:00:00,Gym Membership Fee,$65.00,
+2025-07-07 00:00:00,Medical Centre GP Visit,$85.00,
+2025-07-11 00:00:00,Chemist Warehouse,$42.90,
+2025-07-16 00:00:00,Transfer from CBA,,$500.00
+2025-07-21 00:00:00,Restaurant Dining Out,$120.50,
+2025-07-26 00:00:00,Gym Membership Fee,$65.00,
+2025-08-02 00:00:00,Transfer from CBA,,$500.00
+2025-08-06 00:00:00,Medical Centre GP Visit,$85.00,
+2025-08-11 00:00:00,Restaurant Dining Out,$95.30,
+2025-08-16 00:00:00,Chemist Warehouse,$38.75,
+2025-08-20 00:00:00,Transfer from CBA,,$500.00
+2025-08-24 00:00:00,Gym Membership Fee,$65.00,
+2025-08-29 00:00:00,Restaurant Dining Out,$110.20,
+2025-09-03 00:00:00,Transfer from CBA,,$500.00
+2025-09-09 00:00:00,Medical Centre GP Visit,$85.00,
+2025-09-13 00:00:00,Restaurant Dining Out,$88.40,
+2025-09-17 00:00:00,Gym Membership Fee,$65.00,
+2025-09-21 00:00:00,Chemist Warehouse,$45.60,
+2025-09-26 00:00:00,Transfer from CBA,,$500.00
+2025-10-01 00:00:00,Interest Earned,,$12.50
+2025-10-05 00:00:00,Restaurant Dining Out,$105.75,
+2025-10-09 00:00:00,Medical Centre GP Visit,$85.00,
+2025-10-14 00:00:00,Gym Membership Fee,$65.00,
+2025-10-19 00:00:00,Transfer from CBA,,$500.00
+TOTAL,— TOTAL —,"$1,312.40","$3,512.50"
