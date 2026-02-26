@@ -14,8 +14,8 @@ The script:
 2. Groups *similar* transaction descriptions across all three sources using
    fuzzy string matching (rapidfuzz) and builds a consolidated summary
    DataFrame with totals.
-3. Saves all DataFrames to CSV files in the 'output/' directory.
 4. Produces a rich set of charts (bar, pie, stacked-bar, line) and saves
+3. Saves all DataFrames to CSV files in the 'output/' directory.
    them as PNG images in 'output/'.
 
 Usage:
@@ -39,14 +39,13 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-DATA_DIR = "data"
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 FILES = {
-    "CBA": os.path.join(DATA_DIR, "cba.xlsx"),
-    "PP25-26": os.path.join(DATA_DIR, "PP25-26.xlsx"),
-    "SmartAccess": os.path.join(DATA_DIR, "smartaccess.xlsx"),
+    "CBA": "cba.xlsx",
+    "PP25-26": "PP25-26.xlsx",
+    "SmartAccess": "smartaccess.xlsx",
 }
 
 # Similarity threshold (0-100).  Descriptions scoring >= this are grouped.
