@@ -39,13 +39,14 @@ warnings.filterwarnings("ignore")
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
+DATA_DIR = "data"
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 FILES = {
-    "CBA": "cba.xlsx",
-    "PP25-26": "PP25-26.xlsx",
-    "SmartAccess": "smartaccess.xlsx",
+    "CBA": os.path.join(DATA_DIR, "cba.xlsx"),
+    "PP25-26": os.path.join(DATA_DIR, "PP25-26.xlsx"),
+    "SmartAccess": os.path.join(DATA_DIR, "smartaccess.xlsx"),
 }
 
 # Similarity threshold (0-100).  Descriptions scoring >= this are grouped.
