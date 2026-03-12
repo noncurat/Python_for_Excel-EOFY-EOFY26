@@ -1,0 +1,32 @@
+Date,Trans_Details,Trans_Dr,Trans_Cr
+2025-07-01 00:00:00,Salary Payment - Employer Co,,"$4,500.00"
+2025-07-03 00:00:00,Woolworths Supermarket,$187.50,
+2025-07-05 00:00:00,Netflix Subscription,$15.99,
+2025-07-08 00:00:00,Coles Supermarket,$143.20,
+2025-07-10 00:00:00,AGL Energy Bill,$210.00,
+2025-07-12 00:00:00,Bunnings Warehouse,$89.95,
+2025-07-15 00:00:00,Woolworths Supermarket,$156.30,
+2025-07-18 00:00:00,Salary Payment - Employer Co,,"$4,500.00"
+2025-07-20 00:00:00,Coles Supermarket,$122.80,
+2025-07-22 00:00:00,Telstra Phone Bill,$95.00,
+2025-07-25 00:00:00,Woolworths Supermarket,$201.45,
+2025-07-28 00:00:00,Petrol Station BP,$78.60,
+2025-08-01 00:00:00,Salary Payment - Employer Co,,"$4,500.00"
+2025-08-03 00:00:00,Coles Supermarket,$135.70,
+2025-08-07 00:00:00,Netflix Subscription,$15.99,
+2025-08-10 00:00:00,Woolworths Supermarket,$178.90,
+2025-08-12 00:00:00,AGL Energy Bill,$215.00,
+2025-08-15 00:00:00,Petrol Station BP,$82.40,
+2025-08-18 00:00:00,Salary Payment - Employer Co,,"$4,500.00"
+2025-08-22 00:00:00,Bunnings Warehouse,$95.50,
+2025-08-25 00:00:00,Coles Supermarket,$148.60,
+2025-08-28 00:00:00,Woolworths Supermarket,$193.25,
+2025-09-02 00:00:00,Salary Payment - Employer Co,,"$4,500.00"
+2025-09-05 00:00:00,Telstra Phone Bill,$95.00,
+2025-09-08 00:00:00,Coles Supermarket,$131.40,
+2025-09-12 00:00:00,Woolworths Supermarket,$167.80,
+2025-09-15 00:00:00,Petrol Station BP,$86.20,
+2025-09-18 00:00:00,Netflix Subscription,$15.99,
+2025-09-22 00:00:00,AGL Energy Bill,$220.00,
+2025-09-25 00:00:00,Bunnings Warehouse,$102.75,
+TOTAL,— TOTAL —,"$3,185.27","$22,500.00"
